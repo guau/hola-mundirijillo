@@ -15,3 +15,6 @@ using namespace std;
   
   return 0;
   }
+
+
+ahorafuera de este texto hayq ue hacer cambios, guardarlos sobre lo que teniamos y describir sobre lo que hicimos abajito
